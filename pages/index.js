@@ -5,8 +5,8 @@ import Script from 'dangerous-html/react'
 import { useTranslations } from 'next-intl'
 
 import WBNavbar from '../components/wb-navbar'
-import Features18 from '../components/features18'
-import Features171 from '../components/features171'
+import Features18 from '../components/feature_rightimg'
+import Features171 from '../components/features_leftimg'
 import CTA1 from '../components/cta1'
 import Footer from '../components/footer'
 
